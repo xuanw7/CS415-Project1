@@ -1,0 +1,450 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "875D9628D1735672B99B68483AEF6BEADB8F7281",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/WM_MetalBasicLight_a_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Metal/WM_MetalBasic_a_mat",
+				"/Game/EF_TwinsRoom/Materials/LeatherBlue_a_Mat",
+				"/Game/EF_TwinsRoom/Materials/WM_BrassBasic_a_mat",
+				"/Game/EF_TwinsRoom/Materials/WM_MetalBasic_a_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Wood/WM_WoodPlanksFloor_d_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Plastic/WM_Plastic_Orange_a_Mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Plastic/WM_Plastic_Red_a_Mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Wood/WM_WoodRough_b_Teal2_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Wood/WM_WoodRough_b_Orange_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Carpet/WM_Carpet_blue_Mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Wood/WM_WoodRough_b_Teal_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Metal/WM_MetalBasicLight_a_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Wood/WM_WoodRough_b_Teal3_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Wood/WM_LaqueredBlackWood_a_Mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Plaster/WM_PlasterWallBlue_b_mat",
+				"/Game/EF_TwinsRoom/Common/Materials/Plaster/WM_PlasterWallOrange_b_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "681558722C78331503A1160B96DD229E6166CA4F",
+			"Assets": [
+				"/Game/InfiniteMatrix/Materials/M_TunnelBase"
+			]
+		},
+		{
+			"ShaderMapHash": "323B15D8E3B58DBD0F17AB829E82F1B2DC24374C",
+			"Assets": [
+				"/Game/InfiniteMatrix/Materials/M_HoleBase"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D22E7942DBE3786EE5C21EFBAC1FC523A95523D2",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/MasterMaterial/Master_Props_Masked_Mat",
+				"/Game/EF_TwinsRoom/Shared/TheresaRoom/Lamp/Lamp_Mat",
+				"/Game/EF_TwinsRoom/Materials/Master_Props_Masked_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "CDB02FF4702E0F4762133825B6CC40FEF8797C19",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/MasterMaterial/Master_Props_MaskedDither_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "9A3C6236A16C5B90EDD56165E649A7BEFB2DAFC2",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/MasterMaterial/Glass_MasterMat"
+			]
+		},
+		{
+			"ShaderMapHash": "140B90F71C760BA3347487522A0A0796CD13BF66",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/Master_Props_Emmisive_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E811CEF81749A41229C8940573A9AC280A8EF7CA",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/curtains_kitchen_a_Mat1"
+			]
+		},
+		{
+			"ShaderMapHash": "A6B0B7820691D100B291684534B3345C5FE1AF39",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Shared/Terrain/MasterVertLerp_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0D594DF2008612ACE4299DF9A3710371054C8120",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/Master_Glass_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5341159A931AF9897072754B3623A3DD9854EA93",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/MasterMaterial/Master_DFMasked_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "DCA1763EA194E7D0BEBC1A43977342EAC17E548D",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/MasterMaterial/MASTER_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "78991C303141991DAE14C0BBEA4B6C2375973C77",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/CockpitButtons_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1E2562619F5D6D210F5FED17CC5098278299A196",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Shared/TheresaRoom/HospitalBed/HospitalBed_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "624290F78CFDBC7139605AD19C9DC46165645F4F",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/Materials/Glass/WM_GlassClean_a"
+			]
+		},
+		{
+			"ShaderMapHash": "5ED408F565C66B60A0D81F9A541A3965256ACB45",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/WM_GlassDirty_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F8F03476D8F11E648E1315E0CF68A1599D5D37BC",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/TwinsRoomFortNamesRed_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B74BF3B0BA8B7F9621D55A03DB6FF7499B3BB386",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/Materials/SolidColor/BlackGloss_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6A9A286FDB58F1F49566AF1CB2053E3D27A448DD",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/Master_WorldMaterial_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "FC10DDA72A47F3B326A7DDEC4CDFF5402E0389B8",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/curtains_kitchen_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "FA17C84FC8AC86B4C030E24D45C17C54E3191860",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Common/MasterMaterial/Master_Props_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE56528D33E835D1B66F0FAF518C7E929768FFB",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/RocketToy_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "15FCD532223A698A88B53AB042C60DB46C64B008",
+			"Assets": [
+				"/Game/EF_TwinsRoom/Materials/Door_a_Mat"
+			]
+		}
+	]
+}
